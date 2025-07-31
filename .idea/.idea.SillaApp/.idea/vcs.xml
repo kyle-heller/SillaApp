@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../99bottles_ruby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Advent-Of-Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Book-Management-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BroCodeJavaCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DeepFaceLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JavaScript30" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MultiShot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Peer-Lender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RollModel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Scooby-Chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ScoobyChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ScoobyChat/ScoobyChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SpringTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../To-Do-List-JavaFX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../accordionscientist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../binary-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../binary-search-tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../caesarcipher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../chess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../complete-javascript-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../connect-four" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../css-exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../custom-enumerables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../event-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../expense-tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fibonacci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../git_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hangman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../html-tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../internetingishard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../javanotes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../javanotes/sub-repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../knights-travails" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../linked-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mastermind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../maven-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../merge-sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../network_systems_foundations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../npp-cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-etch-a-sketch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-javascript-exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-landingpage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-recipes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../odin-rockpaperscissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../recursion-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../roll-call" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ruby-exercises" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ruby_notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ruby_testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../squilla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../squilla/sub-repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../stock-picker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sub-strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../substrings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tic-tac-toe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../towers-of-hanoi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../weddingwebsite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../youtube-description-parser" vcs="Git" />
+  </component>
+</project>
