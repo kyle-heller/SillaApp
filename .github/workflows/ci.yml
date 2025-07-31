@@ -18,11 +18,11 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore Silla.sln
+        run: dotnet restore SillaApp.sln
 
       - name: Build
-        run: dotnet build Silla.sln --configuration Release --no-restore
+        run: dotnet build SillaApp.sln --configuration Release --no-restore
 
-      # Optional: run tests if you add test projects later
+      # Optional: if you add tests later
       - name: Test
-        run: dotnet test Silla.sln --no-build --verbosity normal
+        run: dotnet test SillaApp.sln --no-build --verbosity normal
