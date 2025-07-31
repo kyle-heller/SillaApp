@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Silla.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+377584e175e30575666c87899810101c78c67e2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Silla.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Silla.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
