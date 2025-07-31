@@ -1,0 +1,56 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# VS and Rider user-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.ide.*        # sometimes Rider/IDE config cruft
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet packages (cache is global, not checked in)
+*.nupkg
+packages/
+.nuget/packages/
+
+# ASP.NET Core sensitive/development settings
+appsettings.Development.json
+
+# User secrets (usually stored outside repo, but if you ever place secrets.json here)
+secrets.json
+
+# Publish output
+publish/
+artifacts/
+
+# Logs
+*.log
+
+# Database files (if using local SQLite during dev)
+*.db
+*.db-journal
+
+# Certificates / keys
+*.pfx
+*.key
+
+# macOS
+.DS_Store
+
+# Rider caches / workspace
+.idea/
+*.iml
+
+# Optionally: Blazor/WebAssembly service-worker artifacts (if you generate them)
+wwwroot/service-worker-assets.js
+wwwroot/_framework/scoped-css/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
