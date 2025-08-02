@@ -20,3 +20,4 @@ public class SampleController : ControllerBase
         return Ok(entry);
     }
 }
+

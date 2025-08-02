@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Silla.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd4ae8e3ed0501e4f93a26be273856a7cde84e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Silla.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Silla.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

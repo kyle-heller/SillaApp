@@ -1,13 +1,16 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Allow the Blazor origin (adjust if your Blazor app is on a different port)
+// Allow the Blazor origin 
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
-        policy.WithOrigins("https://localhost:7190") // <-- your Blazor WASM origin
+        policy.WithOrigins("https://localhost:7190") // Blazor WASM origin
             .AllowAnyHeader()
             .AllowAnyMethod());
 });
+
+builder.Services.AddDbContext<AppDbContext>(opts =>
+    opts.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
