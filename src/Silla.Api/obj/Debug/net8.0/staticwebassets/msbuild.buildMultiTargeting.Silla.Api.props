@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Silla.Api.props" />
-</Project>
