@@ -10,6 +10,7 @@
 *.ide.*        # sometimes Rider/IDE config cruft
 .idea/
 *.sln.iml
+.vs/
 
 # VS Code
 .vscode/
@@ -54,3 +55,4 @@ wwwroot/_framework/scoped-css/
 # OS generated files
 Thumbs.db
 ehthumbs.db
+
