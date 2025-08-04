@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Silla.Shared.Models;
 
 namespace Silla.Api.Controllers;
+using Silla.Shared.Models;
 
 [ApiController]
 [Route("api/[controller]")]

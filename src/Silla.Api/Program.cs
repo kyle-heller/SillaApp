@@ -1,4 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using Silla.Infrastructure.Data;
+using Silla.Infrastructure.Repositories;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<AppDbContext>(opts =>
+    opts.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
 
 // Allow the Blazor origin 
 builder.Services.AddCors(options =>
@@ -9,8 +18,7 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod());
 });
 
-builder.Services.AddDbContext<AppDbContext>(opts =>
-    opts.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
+builder.Services.AddScoped<IJournalEntryRepository, JournalEntryRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
